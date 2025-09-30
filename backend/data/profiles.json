@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "city": "Kyiv",
+    "skills": ["React", "Node.js", "CSS"],
+    "about": "Frontend developer",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "city": "Lviv",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "about": "Backend developer",
+    "rating": 4.7
+  }
+]

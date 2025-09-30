@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+**/node_modules/
+
+# Build
+**/dist/
+**/build/
+
+# Env
+**/.env
+
+# Local config
+*.local
+
+# Editor
+.vscode/
+!.vscode/extensions.json
+*.sln
+*.sw?

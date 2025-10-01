@@ -1,14 +1,15 @@
 {
   "compilerOptions": {
-    "module": "nodenext",
-    "target": "esnext",
-    "moduleResolution": "NodeNext",
-    "outDir": "dist",
-    "rootDir": ".",
+    "target": "ES2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"]
+    },
     "strict": true,
-    "sourceMap": true,
-    "declaration": true,
-    "skipLibCheck": true
+    "resolveJsonModule": true,
+    "esModuleInterop": true
   },
-  "include": ["**/*.ts"]
+  "include": ["src"]
 }

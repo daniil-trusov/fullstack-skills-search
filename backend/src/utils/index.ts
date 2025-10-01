@@ -1,0 +1,1 @@
+export { filterAndScoreProfiles } from "./search";

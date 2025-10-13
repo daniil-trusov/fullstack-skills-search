@@ -1,4 +1,26 @@
-# How to Run
+# SKILL-BASED SEARCH APP
+
+## DESCRIPTION
+
+This project not only recreates the mockup design with a fully responsive layout across all screen sizes but also provides modular, functional, and easily extendable components to simplify future development.
+
+## TECH STACK
+
+Frontend Tech Stack:
+
+- Vite – development and build tool for modern frontend workflows;
+- React – component-based library for building dynamic and interactive UIs;
+- Tailwind CSS – utility-first CSS framework for rapidly building custom, responsive designs within markup;
+- TypeScript – adds static typing to JS, improving code reliability, readability and refactoring safety;
+- Axios – promise-based HTTP client for making API requests;
+
+Backend Tech Stack:
+
+- Node.js & Express – Server runtime and framework for building REST APIs;
+- TypeScript – Enables type safety on the backend for more reliable code;
+- CORS – Middleware to allow cross-origin resource sharing.
+
+## HOW TO RUN
 
 1. Open console and execute commands:
 
@@ -17,7 +39,7 @@ npm run dev
 
 ---
 
-# Features
+# FEATURES
 
 - Skill autocomplete with keyboard navigation;
 - `Clear all` button appear if there are more than 1 skill selected;
@@ -29,7 +51,7 @@ npm run dev
 
 ---
 
-# Possible Improvements
+# POSSIBLE IMPROVEMENTS
 - Replace `SkillCloud` with a more suitable and effective component;
 - Improve ProfileCard visual for grid;
 - Add the possibility to open a profile directly via `profile/:id` and fetch profile by id from the backend;

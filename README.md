@@ -16,9 +16,9 @@ Frontend Tech Stack:
 
 Backend Tech Stack:
 
-- Node.js & Express – Server runtime and framework for building REST APIs;
-- TypeScript – Enables type safety on the backend for more reliable code;
-- CORS – Middleware to allow cross-origin resource sharing.
+- Node.js & Express – server runtime and framework for building REST APIs;
+- TypeScript – enables type safety on the backend for more reliable code;
+- CORS – middleware to allow cross-origin resource sharing.
 
 ## HOW TO RUN
 
